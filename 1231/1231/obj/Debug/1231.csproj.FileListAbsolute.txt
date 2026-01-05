@@ -1,0 +1,8 @@
+C:\Users\STUDY\lion7\1231\1231\bin\Debug\1231.exe.config
+C:\Users\STUDY\lion7\1231\1231\bin\Debug\1231.exe
+C:\Users\STUDY\lion7\1231\1231\bin\Debug\1231.pdb
+C:\Users\STUDY\lion7\1231\1231\obj\Debug\1231.csproj.AssemblyReference.cache
+C:\Users\STUDY\lion7\1231\1231\obj\Debug\1231.csproj.CoreCompileInputs.cache
+C:\Users\STUDY\lion7\1231\1231\obj\Debug\1231.exe
+C:\Users\STUDY\lion7\1231\1231\obj\Debug\1231.pdb
+C:\Users\STUDY\lion7\1231\1231\obj\Debug\1231.exe.config
