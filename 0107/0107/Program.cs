@@ -354,31 +354,60 @@ namespace _0107
             //카타나         20%
             //엑스칼리버     30%
             //정기점검       40%
-             
-            string sword = "무한의 대검";
-            Console.WriteLine("당신은 20번 뽑기가 가능합니다. 지금 실행합니다.");
-            Random rnd=new Random();
-            int random = 0;
-            for(int i = 0; i < 20; i++)
+
+            //string sword = "무한의 대검";
+            //Console.WriteLine("당신은 20번 뽑기가 가능합니다. 지금 실행합니다.");
+            //Random rnd=new Random();
+            //int random = 0;
+            //for(int i = 0; i < 20; i++)
+            //{
+            //    random = rnd.Next(1, 101);
+            //    if (random >= 90)
+            //    {
+            //        sword = "무한의 대검";
+            //    }
+            //    else if (random >= 70)
+            //    {
+            //        sword = "카타나";
+            //    }
+            //    else if (random >= 40)
+            //    {
+            //        sword = "엑스칼리버";
+            //    }
+            //    else
+            //    {
+            //        sword = "정기점검";
+            //    }
+            //    Console.WriteLine($"{sword}"); Thread.Sleep(100);
+            //}
+
+            //문제1
+            //오늘의 온도를 입력받아 적잘한 옷차림을 추천하는 프로그램
+            Console.Write("현재 온도: ");
+            int temperature = int.Parse(Console.ReadLine());
+            if (temperature >= 30) { Console.WriteLine("🔥매우 더워요!반팔과 반바지를 입으세요."); }
+            else if (temperature >= 20) { Console.WriteLine("적당해요! 긴팔 티셔츠를 입으세요."); }
+            else if (temperature >= 10) { Console.WriteLine("쌀쌀해요! 가디건이나 자켓을 챙기세요."); }
+            else if (temperature >= 0) { Console.WriteLine("추워요! 코트를 입으세요."); }
+            else if (temperature < 0) { Console.WriteLine("매우 추워요! 패딩과 목도리가 필요해요."); }
+
+            //문제2 게임 캐릭터 직업 선택
+            Console.Write("\n 직업 선택 (1:전사, 2:마법사, 3:궁수, 4:도적): ");
+            int job = int.Parse(Console.ReadLine());
+            Console.WriteLine("===캐릭터 생성===");
+            switch (job)
             {
-                random = rnd.Next(1, 101);
-                if (random >= 90)
-                {
-                    sword = "무한의 대검";
-                }
-                else if (random >= 70)
-                {
-                    sword = "카타나";
-                }
-                else if (random >= 40)
-                {
-                    sword = "엑스칼리버";
-                }
-                else
-                {
-                    sword = "정기점검";
-                }
-                Console.WriteLine($"{sword}"); Thread.Sleep(100);
+                case 1:
+                    Console.WriteLine("⚔️ 전사 - 높은 체력과 방어력 / 시작 스탯: HP +50, 공격력 +10"); break;
+                case 2:
+                    Console.WriteLine("🔮 마법사 - 특성: 강력한 마법 공격 / 시작 스탯: 마나 +100, 마법력 +20"); ; break;
+                case 3:
+                    Console.WriteLine("🏹 궁수 - 특성: 원거리 공격 특화 / 시작 스탯: 민첩 +15, 크리티컬+10%"); break;
+                case 4:
+                    Console.WriteLine("🗡️ 도적 - 특성: 빠른 속도와 회피 / 시작 스탯: 민첩 +20, 회피율 +15%"); break;
+                default:
+                    Console.WriteLine("❌ 잘못된 선택입니다. 1~4 중에서 선택해주세요."); break;
+
             }
         }
     }
