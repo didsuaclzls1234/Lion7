@@ -8,9 +8,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|0106||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9976A33A-7012-4058-99C7-2636568564B3}|0106\\0106.csproj|c:\\users\\study\\lion7project\\lion7\\0106\\0106\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|cc4014f5-b18d-439c-9352-f99d984cca85"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,8 +28,7 @@
               "ToolTip": "C:\\Users\\STUDY\\Lion7project\\Lion7\\0106\\0106\\0106.csproj*",
               "RelativeToolTip": "0106\\0106.csproj*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-06T01:34:06.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T01:34:06.651Z"
             },
             {
               "$type": "Document",
@@ -42,7 +38,7 @@
               "RelativeDocumentMoniker": "0106\\Program.cs",
               "ToolTip": "C:\\Users\\STUDY\\Lion7project\\Lion7\\0106\\0106\\Program.cs",
               "RelativeToolTip": "0106\\Program.cs",
-              "ViewState": "AgIAACMBAAAAAAAAAAAowBsBAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABQBAAAAAAAAAAAowBsBAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T01:21:20.449Z",
               "EditorCaption": ""
