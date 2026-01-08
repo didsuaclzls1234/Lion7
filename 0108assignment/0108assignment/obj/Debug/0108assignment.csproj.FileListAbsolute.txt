@@ -1,0 +1,8 @@
+C:\Users\STUDY\Lion7project\Lion7\0108assignment\0108assignment\obj\Debug\0108assignment.csproj.AssemblyReference.cache
+C:\Users\STUDY\Lion7project\Lion7\0108assignment\0108assignment\obj\Debug\0108assignment.csproj.CoreCompileInputs.cache
+C:\Users\STUDY\Lion7project\Lion7\0108assignment\0108assignment\bin\Debug\0108assignment.exe.config
+C:\Users\STUDY\Lion7project\Lion7\0108assignment\0108assignment\bin\Debug\0108assignment.exe
+C:\Users\STUDY\Lion7project\Lion7\0108assignment\0108assignment\bin\Debug\0108assignment.pdb
+C:\Users\STUDY\Lion7project\Lion7\0108assignment\0108assignment\obj\Debug\0108assignment.exe
+C:\Users\STUDY\Lion7project\Lion7\0108assignment\0108assignment\obj\Debug\0108assignment.pdb
+C:\Users\STUDY\Lion7project\Lion7\0108assignment\0108assignment\obj\Debug\0108assignment.exe.config
