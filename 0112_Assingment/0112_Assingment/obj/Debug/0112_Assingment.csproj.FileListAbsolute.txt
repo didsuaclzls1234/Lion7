@@ -1,0 +1,8 @@
+C:\Users\STUDY\Lion7project\Lion7\0112_Assingment\0112_Assingment\bin\Debug\0112_Assingment.exe.config
+C:\Users\STUDY\Lion7project\Lion7\0112_Assingment\0112_Assingment\bin\Debug\0112_Assingment.exe
+C:\Users\STUDY\Lion7project\Lion7\0112_Assingment\0112_Assingment\bin\Debug\0112_Assingment.pdb
+C:\Users\STUDY\Lion7project\Lion7\0112_Assingment\0112_Assingment\obj\Debug\0112_Assingment.csproj.AssemblyReference.cache
+C:\Users\STUDY\Lion7project\Lion7\0112_Assingment\0112_Assingment\obj\Debug\0112_Assingment.csproj.CoreCompileInputs.cache
+C:\Users\STUDY\Lion7project\Lion7\0112_Assingment\0112_Assingment\obj\Debug\0112_Assingment.exe
+C:\Users\STUDY\Lion7project\Lion7\0112_Assingment\0112_Assingment\obj\Debug\0112_Assingment.pdb
+C:\Users\STUDY\Lion7project\Lion7\0112_Assingment\0112_Assingment\obj\Debug\0112_Assingment.exe.config

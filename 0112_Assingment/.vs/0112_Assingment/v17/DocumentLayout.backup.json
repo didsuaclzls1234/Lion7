@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STUDY\\Lion7project\\Lion7\\0112_Assingment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52A82DFF-5308-4E72-9EA0-A66310DE044A}|0112_Assingment\\0112_Assingment.csproj|c:\\users\\study\\lion7project\\lion7\\0112_assingment\\0112_assingment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A82DFF-5308-4E72-9EA0-A66310DE044A}|0112_Assingment\\0112_Assingment.csproj|solutionrelative:0112_assingment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STUDY\\Lion7project\\Lion7\\0112_Assingment\\0112_Assingment\\Program.cs",
+              "RelativeDocumentMoniker": "0112_Assingment\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDY\\Lion7project\\Lion7\\0112_Assingment\\0112_Assingment\\Program.cs*",
+              "RelativeToolTip": "0112_Assingment\\Program.cs*",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAowIAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T06:39:44.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
