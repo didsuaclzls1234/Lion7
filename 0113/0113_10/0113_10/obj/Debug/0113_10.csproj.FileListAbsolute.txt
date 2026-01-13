@@ -1,0 +1,8 @@
+C:\Users\STUDY\Lion7project\Lion7\0113\0113_10\0113_10\bin\Debug\0113_10.exe.config
+C:\Users\STUDY\Lion7project\Lion7\0113\0113_10\0113_10\bin\Debug\0113_10.exe
+C:\Users\STUDY\Lion7project\Lion7\0113\0113_10\0113_10\bin\Debug\0113_10.pdb
+C:\Users\STUDY\Lion7project\Lion7\0113\0113_10\0113_10\obj\Debug\0113_10.csproj.AssemblyReference.cache
+C:\Users\STUDY\Lion7project\Lion7\0113\0113_10\0113_10\obj\Debug\0113_10.csproj.CoreCompileInputs.cache
+C:\Users\STUDY\Lion7project\Lion7\0113\0113_10\0113_10\obj\Debug\0113_10.exe
+C:\Users\STUDY\Lion7project\Lion7\0113\0113_10\0113_10\obj\Debug\0113_10.pdb
+C:\Users\STUDY\Lion7project\Lion7\0113\0113_10\0113_10\obj\Debug\0113_10.exe.config

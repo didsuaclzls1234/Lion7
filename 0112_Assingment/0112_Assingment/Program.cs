@@ -130,7 +130,7 @@ namespace _0112_Assingment
 
             //### 문제 3: 소수 판별 함수
             Console.WriteLine("문제 3: 소수 판별 함수");
-            int posintnum = 2;
+            int posintnum = 89;
             bool isPrime=checkPrime(posintnum);
             if (isPrime == true) { Console.WriteLine($"{posintnum}는 소수입니다."); }
             else { Console.WriteLine($"{posintnum}는 소수가 아닙니다."); }
