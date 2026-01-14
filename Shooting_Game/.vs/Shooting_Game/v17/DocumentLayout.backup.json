@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STUDY\\Lion7project\\Lion7\\Shooting_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27639898-6300-4668-AC9C-410055046F99}|Shooting_Game\\Shooting_Game.csproj|c:\\users\\study\\lion7project\\lion7\\shooting_game\\shooting_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27639898-6300-4668-AC9C-410055046F99}|Shooting_Game\\Shooting_Game.csproj|solutionrelative:shooting_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STUDY\\Lion7project\\Lion7\\Shooting_Game\\Shooting_Game\\Program.cs",
+              "RelativeDocumentMoniker": "Shooting_Game\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDY\\Lion7project\\Lion7\\Shooting_Game\\Shooting_Game\\Program.cs",
+              "RelativeToolTip": "Shooting_Game\\Program.cs",
+              "ViewState": "AgIAACEBAAAAAAAAAAAiwCkBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T00:38:54.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
